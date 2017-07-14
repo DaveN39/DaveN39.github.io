@@ -1,0 +1,26 @@
+body {
+	background: lightblue;
+}
+
+h1 {
+	text-decoration: bold;
+    text-align: ;
+    color: navy;
+}
+.col-sm-4 {
+	background: lightblue;
+}
+
+.day {
+	border: 1px solid black;
+}
+
+
+#map-canvas1 {
+			display: block;
+    		margin: 0 auto;
+            width: 1100px;
+            height: 481px;
+            border: 1px solid black;
+            cursor: pointer;
+        }

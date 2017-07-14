@@ -1,0 +1,25 @@
+.welcome {
+  font-family: 'Gruppo';font-size: 22px;
+  background-image: url("aziz-acharki-253909.jpg");
+  background-size: 1280px 700px;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+}
+.resume {
+  font-family: 'Gruppo';font-size: 22px;
+  background-image: url("h-heyerlein-199082.jpg");
+  background-size: 1280px 700px;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+}
+.portfolio {
+  font-family: 'Gruppo';font-size: 22px;
+  background-image: url("greg-rakozy-38802.jpg");
+  background-size: 1280px 700px;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+}
+
+.navbar {
+	background: #021642;
+}
